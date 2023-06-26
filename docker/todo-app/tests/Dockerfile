@@ -1,1 +1,0 @@
-from metabrainz/base-image
